@@ -1,12 +1,12 @@
 # Web - blogging website
 <br>
-##Features to be created :-
-1.To create blog Post
-2.To view blog Post
-3.Post Update/Delete
+## Features to be created :-
+1. To create blog Post
+2. To view blog Post
+3. Post Update/Delete
 <br>
-*Same Header and Footer for every ejs page
-*A css file for View Page, Home Page
+* Same Header and Footer for every ejs page
+* A css file for View Page, Home Page
 
 ## On _Home_ page
 1. Can create a Post form asking 
